@@ -4,6 +4,8 @@ const pageWeb = {
     description: "Bienvenido a mi espacio digital",
 };
 
-module.exports = pageWeb;
+const numero = 4;
+
+module.exports = {pageWeb, numero};
 
 
